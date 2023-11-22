@@ -9,8 +9,7 @@
 - 💻 I'm currently working at [Asteroid](https://asteroidtechs.com/)
 
 - 📫 If you want to contact me **pantojaignacio642@gmail.com**
-
-- 🎮 My Favorite Games are **Resident Evil 4, Red Dead Redemption II and Doom Eternal!**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
