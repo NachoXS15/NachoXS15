@@ -10,7 +10,7 @@
 
 - 📫 If you want to contact me **pantojaignacio642@gmail.com**
   
-
+- 💡 Trying to improve my skills everyday
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nachoxs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nachoxs_" height="30" width="40" /></a>
