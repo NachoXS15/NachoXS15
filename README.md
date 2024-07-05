@@ -12,7 +12,7 @@
   
 - 💡 Trying to improve my skills everyday
   
-- 📘 I'm currently learning: [TypeScript](https://www.typescriptlang.org/) and [Astro](https://astro.build/)
+- 📘 I'm currently learning: [TypeScript](https://www.typescriptlang.org/), [Astro](https://astro.build/) and [Tailwind](https://tailwindcss.com/)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
