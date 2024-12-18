@@ -13,7 +13,9 @@
 - 💡 Trying to improve my skills everyday
   
 - 📘 I'm currently learning: [TypeScript](https://www.typescriptlang.org/), [Astro](https://astro.build/) and [Tailwind](https://tailwindcss.com/)
-  
+
+- 🌐 Visit my new [website](https://devignaciopantoja.com.ar)!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nachoxs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nachoxs_" height="30" width="40" /></a>
