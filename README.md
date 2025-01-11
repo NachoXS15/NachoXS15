@@ -6,7 +6,7 @@
 
 - 🛠 I am a PC Technician at [XSTCH](https://www.instagram.com/xs.tch_/)
 
-- 💻 I'm currently working at [Organización y Desarrollo](https://organizacionydesarrollo.com/)
+- 💻 I'm currently working at [Organización y Desarrollo](https://www.instagram.com/organizacionydesarrollo)
 
 - 📫 If you want to contact me **pantojaignacio642@gmail.com**
   
